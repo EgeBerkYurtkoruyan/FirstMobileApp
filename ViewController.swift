@@ -162,7 +162,7 @@ class ViewController: UIViewController {
                 }
                 self.score = 0
                 self.scoreLabel.text = "Score: 0"
-                self.timeLabel.text = " YARRAMI YE "
+                self.timeLabel.text = " Ready? "
                 self.finished = true
                 
                 
