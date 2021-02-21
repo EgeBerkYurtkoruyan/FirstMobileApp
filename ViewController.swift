@@ -132,7 +132,7 @@ class ViewController: UIViewController {
         if counter > 0 {
             timeLabel.text = "\(counter)"
             counter -= 1
-        }else if timeLabel.text == " YARRAMI YE " {
+        }else if timeLabel.text == " Ready? " {
             
             let uyari2 = UIAlertController(title: " :D ", message: "again?", preferredStyle: UIAlertController.Style.alert)
             
